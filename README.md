@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 Öncelikle projeyi clonelayın. 
-'https://github.com/onur-yuksekkaya/kodluyoruzilkrepo'
+<code>https://github.com/onur-yuksekkaya/kodluyoruzilkrepo</code>
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
