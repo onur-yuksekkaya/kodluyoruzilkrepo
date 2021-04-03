@@ -15,4 +15,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://opensource.org/licenses/MIT)
 
-![Kodluyoruz](https://picsum.photos/200/300)
+![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
